@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 - 🌱 I’m currently studying Data Science at "Institut Polytechnique de Paris" in the M2 Data Science.
 - 🔭 I’m currently working on AI
 - 👯 I’m looking to collaborate on the ARC Prize.
